@@ -1,3 +1,1 @@
 # wzorce
-
-test na kompie
