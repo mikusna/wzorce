@@ -1,1 +1,1 @@
-# wzorce
+# Wzorce projektowe - laby
