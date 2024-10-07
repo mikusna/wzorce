@@ -1,0 +1,3 @@
+﻿Stwórzy klasę Wojownik. Utwórz klasy dziedziczące Piechur, Strzelec, Konny.
+Stwórz klasę garnizon, która na podstawie nazwy profesji wyszkoli i zwróci nam obiekt odpowiedniego wojownika.
+Stwórz tablicę zawierającą 3 piechurów, 3 konnych i 4 strzelców.
