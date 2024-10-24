@@ -1,0 +1,14 @@
+C:\Users\milen\source\repos\CH1_RefusedBequest\bin\Debug\net8.0\CH1_RefusedBequest.exe
+C:\Users\milen\source\repos\CH1_RefusedBequest\bin\Debug\net8.0\CH1_RefusedBequest.deps.json
+C:\Users\milen\source\repos\CH1_RefusedBequest\bin\Debug\net8.0\CH1_RefusedBequest.runtimeconfig.json
+C:\Users\milen\source\repos\CH1_RefusedBequest\bin\Debug\net8.0\CH1_RefusedBequest.dll
+C:\Users\milen\source\repos\CH1_RefusedBequest\bin\Debug\net8.0\CH1_RefusedBequest.pdb
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.AssemblyInfo.cs
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.dll
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\refint\CH1_RefusedBequest.dll
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.pdb
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\CH1_RefusedBequest.genruntimeconfig.cache
+C:\Users\milen\source\repos\CH1_RefusedBequest\obj\Debug\net8.0\ref\CH1_RefusedBequest.dll
