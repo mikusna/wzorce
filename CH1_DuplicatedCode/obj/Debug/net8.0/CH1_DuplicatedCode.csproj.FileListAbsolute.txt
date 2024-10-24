@@ -1,0 +1,14 @@
+C:\Users\milen\source\repos\CH1_DuplicatedCode\bin\Debug\net8.0\CH1_DuplicatedCode.exe
+C:\Users\milen\source\repos\CH1_DuplicatedCode\bin\Debug\net8.0\CH1_DuplicatedCode.deps.json
+C:\Users\milen\source\repos\CH1_DuplicatedCode\bin\Debug\net8.0\CH1_DuplicatedCode.runtimeconfig.json
+C:\Users\milen\source\repos\CH1_DuplicatedCode\bin\Debug\net8.0\CH1_DuplicatedCode.dll
+C:\Users\milen\source\repos\CH1_DuplicatedCode\bin\Debug\net8.0\CH1_DuplicatedCode.pdb
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.AssemblyInfo.cs
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.dll
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\refint\CH1_DuplicatedCode.dll
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.pdb
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\CH1_DuplicatedCode.genruntimeconfig.cache
+C:\Users\milen\source\repos\CH1_DuplicatedCode\obj\Debug\net8.0\ref\CH1_DuplicatedCode.dll
