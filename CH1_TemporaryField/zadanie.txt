@@ -1,0 +1,29 @@
+﻿Masz klasę InvoiceGenerator, która używa tymczasowych pól (_invoiceNumber, _pdfWriter) tylko w jednej metodzie GenerateInvoice. Twoim zadaniem jest usunięcie tych pól i przekształcenie ich w lokalne zmienne.
+
+Kod do refaktoryzacji:
+
+public class InvoiceGenerator
+{
+    private int _invoiceNumber; // Tymczasowe pole używane tylko w jednej metodzie
+    private PdfWriter _pdfWriter; // Tymczasowe pole używane tylko w jednej metodzie
+
+    public void GenerateInvoice()
+    {
+        _invoiceNumber = 12345;
+        _pdfWriter = new PdfWriter($"Invoice_{_invoiceNumber}.pdf");
+        
+        // Generowanie faktury
+        _pdfWriter.Write("Invoice Content");
+        _pdfWriter.Close();
+    }
+
+    public void OtherMethod()
+    {
+        // Metoda, która nie korzysta z tymczasowych pól
+    }
+}
+Kroki do wykonania:
+
+Usuń tymczasowe pola (_invoiceNumber, _pdfWriter) z klasy InvoiceGenerator.
+Przekształć tymczasowe pola na lokalne zmienne wewnątrz metody GenerateInvoice.
+Upewnij się, że kod jest bardziej spójny i czytelny po refaktoryzacji.
