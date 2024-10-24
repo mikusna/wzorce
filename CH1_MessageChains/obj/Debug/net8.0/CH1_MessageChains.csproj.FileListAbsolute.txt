@@ -1,0 +1,14 @@
+C:\Users\milen\source\repos\CH1_MessageChains\bin\Debug\net8.0\CH1_MessageChains.exe
+C:\Users\milen\source\repos\CH1_MessageChains\bin\Debug\net8.0\CH1_MessageChains.deps.json
+C:\Users\milen\source\repos\CH1_MessageChains\bin\Debug\net8.0\CH1_MessageChains.runtimeconfig.json
+C:\Users\milen\source\repos\CH1_MessageChains\bin\Debug\net8.0\CH1_MessageChains.dll
+C:\Users\milen\source\repos\CH1_MessageChains\bin\Debug\net8.0\CH1_MessageChains.pdb
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.AssemblyInfo.cs
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.dll
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\refint\CH1_MessageChains.dll
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.pdb
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\CH1_MessageChains.genruntimeconfig.cache
+C:\Users\milen\source\repos\CH1_MessageChains\obj\Debug\net8.0\ref\CH1_MessageChains.dll
