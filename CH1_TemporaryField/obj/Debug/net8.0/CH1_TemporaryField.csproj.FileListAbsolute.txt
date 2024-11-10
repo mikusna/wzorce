@@ -1,4 +1,0 @@
-C:\Users\milen\source\repos\CH1_TemporaryField\obj\Debug\net8.0\CH1_TemporaryField.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\milen\source\repos\CH1_TemporaryField\obj\Debug\net8.0\CH1_TemporaryField.AssemblyInfoInputs.cache
-C:\Users\milen\source\repos\CH1_TemporaryField\obj\Debug\net8.0\CH1_TemporaryField.AssemblyInfo.cs
-C:\Users\milen\source\repos\CH1_TemporaryField\obj\Debug\net8.0\CH1_TemporaryField.csproj.CoreCompileInputs.cache
