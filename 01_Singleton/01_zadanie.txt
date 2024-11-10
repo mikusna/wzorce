@@ -1,3 +1,0 @@
-Stwórz nową aplikację konsolową SingletonVault
-Stwórz klasę o nazwie Vault. Zadaniem tej klasy jest zwrócenie cyfrowego klucza dostępowego do skarbca.
-Dlatego upewnij się, że jesteś w stanie zwrócić klucz tylko raz.
