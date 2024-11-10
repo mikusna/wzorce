@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\01_LongParameterList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FA7E-66D9-4027-A74D-89F0CEA2B74E}|..\\06_DataClumps\\06_DataClumps.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\06_dataclumps\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8749FA7E-66D9-4027-A74D-89F0CEA2B74E}|..\\06_DataClumps\\06_DataClumps.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\06_dataclumps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9794641-F9DB-47FD-96C4-F17149149A38}|..\\05_TemporaryField\\05_TemporaryField.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\05_temporaryfield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE57EA-FA80-445B-AA34-59F5764F94DD}|..\\04_RefusedBequest\\04_RefusedBequest.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\04_refusedbequest\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE57EA-FA80-445B-AA34-59F5764F94DD}|..\\04_RefusedBequest\\04_RefusedBequest.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\04_refusedbequest\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE57EA-FA80-445B-AA34-59F5764F94DD}|..\\04_RefusedBequest\\04_RefusedBequest.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\04_refusedbequest\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80BE57EA-FA80-445B-AA34-59F5764F94DD}|..\\04_RefusedBequest\\04_RefusedBequest.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\04_refusedbequest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6517ECE-B073-4180-90F5-5CF6B3CABCAD}|..\\03_MessageChains\\03_MessageChains.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\03_messagechains\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C7BAAF-CDA7-475C-B273-B29A5F452FF0}|..\\02_DuplicatedCode\\02_DuplicatedCode.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\02_duplicatedcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F422433-02B3-4F9B-941D-7E981FA8AC6C}|01_LongParameterList.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\01_longparameterlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F422433-02B3-4F9B-941D-7E981FA8AC6C}|01_LongParameterList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F422433-02B3-4F9B-941D-7E981FA8AC6C}|01_LongParameterList.csproj|c:\\users\\milen\\onedrive\\pulpit\\studia\\c#\\ch01_codesmells\\01_longparameterlist\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F422433-02B3-4F9B-941D-7E981FA8AC6C}|01_LongParameterList.csproj|solutionrelative:productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\06_DataClumps\\EventDetails.cs",
+              "RelativeDocumentMoniker": "..\\06_DataClumps\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\06_DataClumps\\EventDetails.cs",
+              "RelativeToolTip": "..\\06_DataClumps\\EventDetails.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:28:29.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\06_DataClumps\\Program.cs",
+              "RelativeDocumentMoniker": "..\\06_DataClumps\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\06_DataClumps\\Program.cs",
+              "RelativeToolTip": "..\\06_DataClumps\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:28:08.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\05_TemporaryField\\Program.cs",
+              "RelativeDocumentMoniker": "..\\05_TemporaryField\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\05_TemporaryField\\Program.cs",
+              "RelativeToolTip": "..\\05_TemporaryField\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:26:58.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\04_RefusedBequest\\Manager.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\Manager.cs",
+              "RelativeToolTip": "..\\04_RefusedBequest\\Manager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:26:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\IEmployee.cs",
+              "RelativeDocumentMoniker": "..\\04_RefusedBequest\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\IEmployee.cs",
+              "RelativeToolTip": "..\\04_RefusedBequest\\IEmployee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:26:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\04_RefusedBequest\\Employee.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\Employee.cs",
+              "RelativeToolTip": "..\\04_RefusedBequest\\Employee.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:25:36.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\Program.cs",
+              "RelativeDocumentMoniker": "..\\04_RefusedBequest\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\04_RefusedBequest\\Program.cs",
+              "RelativeToolTip": "..\\04_RefusedBequest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:25:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\03_MessageChains\\Program.cs",
+              "RelativeDocumentMoniker": "..\\03_MessageChains\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\03_MessageChains\\Program.cs",
+              "RelativeToolTip": "..\\03_MessageChains\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA4wCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:23:42.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\02_DuplicatedCode\\Program.cs",
+              "RelativeDocumentMoniker": "..\\02_DuplicatedCode\\Program.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\02_DuplicatedCode\\Program.cs",
+              "RelativeToolTip": "..\\02_DuplicatedCode\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:22:59.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\01_LongParameterList\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "ProductInfo.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\01_LongParameterList\\ProductInfo.cs",
+              "RelativeToolTip": "ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:21:29.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\01_LongParameterList\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\milen\\OneDrive\\Pulpit\\studia\\C#\\CH01_CodeSmells\\01_LongParameterList\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:19:58.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

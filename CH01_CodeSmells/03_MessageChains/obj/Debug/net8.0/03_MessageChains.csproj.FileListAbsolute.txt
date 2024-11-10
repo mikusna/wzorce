@@ -1,0 +1,14 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\bin\Debug\net8.0\03_MessageChains.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\bin\Debug\net8.0\03_MessageChains.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\bin\Debug\net8.0\03_MessageChains.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\bin\Debug\net8.0\03_MessageChains.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\bin\Debug\net8.0\03_MessageChains.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\refint\03_MessageChains.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\03_MessageChains.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\03_MessageChains\obj\Debug\net8.0\ref\03_MessageChains.dll

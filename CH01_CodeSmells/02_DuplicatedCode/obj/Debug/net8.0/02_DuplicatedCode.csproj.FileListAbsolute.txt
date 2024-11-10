@@ -1,0 +1,14 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\bin\Debug\net8.0\02_DuplicatedCode.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\bin\Debug\net8.0\02_DuplicatedCode.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\bin\Debug\net8.0\02_DuplicatedCode.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\bin\Debug\net8.0\02_DuplicatedCode.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\bin\Debug\net8.0\02_DuplicatedCode.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\refint\02_DuplicatedCode.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\02_DuplicatedCode.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\02_DuplicatedCode\obj\Debug\net8.0\ref\02_DuplicatedCode.dll

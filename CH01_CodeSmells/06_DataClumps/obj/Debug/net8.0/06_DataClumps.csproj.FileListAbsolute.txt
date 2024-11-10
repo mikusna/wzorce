@@ -1,0 +1,14 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\bin\Debug\net8.0\06_DataClumps.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\bin\Debug\net8.0\06_DataClumps.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\bin\Debug\net8.0\06_DataClumps.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\bin\Debug\net8.0\06_DataClumps.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\bin\Debug\net8.0\06_DataClumps.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\refint\06_DataClumps.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\06_DataClumps.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\06_DataClumps\obj\Debug\net8.0\ref\06_DataClumps.dll

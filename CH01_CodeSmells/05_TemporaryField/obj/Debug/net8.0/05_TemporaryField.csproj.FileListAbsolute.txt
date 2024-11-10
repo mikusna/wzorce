@@ -1,0 +1,4 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\05_TemporaryField\obj\Debug\net8.0\05_TemporaryField.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\05_TemporaryField\obj\Debug\net8.0\05_TemporaryField.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\05_TemporaryField\obj\Debug\net8.0\05_TemporaryField.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\05_TemporaryField\obj\Debug\net8.0\05_TemporaryField.csproj.CoreCompileInputs.cache

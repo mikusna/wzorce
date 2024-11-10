@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\01_LongParameterList",
+    "\\02_DuplicatedCode",
+    "\\03_MessageChains",
+    "\\04_RefusedBequest",
+    "\\05_TemporaryField",
+    "\\06_DataClumps"
+  ],
+  "SelectedNode": "\\05_TemporaryField\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

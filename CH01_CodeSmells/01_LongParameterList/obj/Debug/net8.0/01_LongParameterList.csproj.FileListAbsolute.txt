@@ -1,0 +1,14 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\bin\Debug\net8.0\01_LongParameterList.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\bin\Debug\net8.0\01_LongParameterList.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\bin\Debug\net8.0\01_LongParameterList.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\bin\Debug\net8.0\01_LongParameterList.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\bin\Debug\net8.0\01_LongParameterList.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\refint\01_LongParameterList.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\01_LongParameterList.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH01_CodeSmells\01_LongParameterList\obj\Debug\net8.0\ref\01_LongParameterList.dll
