@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\bin\Debug\net8.0\02_Factory.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\bin\Debug\net8.0\02_Factory.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\bin\Debug\net8.0\02_Factory.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\bin\Debug\net8.0\02_Factory.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\bin\Debug\net8.0\02_Factory.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\refint\02_Factory.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\02_Factory.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\02_Factory\obj\Debug\net8.0\ref\02_Factory.dll

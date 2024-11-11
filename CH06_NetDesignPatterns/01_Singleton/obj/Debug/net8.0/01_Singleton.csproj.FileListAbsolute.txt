@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\bin\Debug\net8.0\01_Singleton.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\bin\Debug\net8.0\01_Singleton.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\bin\Debug\net8.0\01_Singleton.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\bin\Debug\net8.0\01_Singleton.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\bin\Debug\net8.0\01_Singleton.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\refint\01_Singleton.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\01_Singleton.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\CH06_NetDesignPatterns\01_Singleton\obj\Debug\net8.0\ref\01_Singleton.dll
