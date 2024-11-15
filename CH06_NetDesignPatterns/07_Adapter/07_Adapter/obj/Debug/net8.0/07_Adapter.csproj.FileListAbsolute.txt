@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\bin\Debug\net8.0\07_Adapter.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\bin\Debug\net8.0\07_Adapter.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\bin\Debug\net8.0\07_Adapter.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\bin\Debug\net8.0\07_Adapter.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\bin\Debug\net8.0\07_Adapter.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\refint\07_Adapter.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\07_Adapter.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\07_Adapter\07_Adapter\obj\Debug\net8.0\ref\07_Adapter.dll
