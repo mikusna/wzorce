@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\bin\Debug\net8.0\06_Proxy.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\bin\Debug\net8.0\06_Proxy.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\bin\Debug\net8.0\06_Proxy.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\bin\Debug\net8.0\06_Proxy.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\bin\Debug\net8.0\06_Proxy.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\refint\06_Proxy.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\06_Proxy.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\06_Proxy\obj\Debug\net8.0\ref\06_Proxy.dll
