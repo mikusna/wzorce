@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\bin\Debug\net8.0\08_Bridge.exe
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\bin\Debug\net8.0\08_Bridge.deps.json
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\bin\Debug\net8.0\08_Bridge.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\bin\Debug\net8.0\08_Bridge.dll
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\bin\Debug\net8.0\08_Bridge.pdb
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.dll
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\refint\08_Bridge.dll
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.pdb
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\08_Bridge.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\08_Bridge\obj\Debug\net8.0\ref\08_Bridge.dll
