@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\bin\Debug\net8.0\LongMessageChain.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\bin\Debug\net8.0\LongMessageChain.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\bin\Debug\net8.0\LongMessageChain.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\bin\Debug\net8.0\LongMessageChain.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\bin\Debug\net8.0\LongMessageChain.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\refint\LongMessageChain.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\LongMessageChain.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\07_LongMessageChain\LongMessageChain\obj\Debug\net8.0\ref\LongMessageChain.dll
