@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\bin\Debug\net8.0\11_GodClass.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\bin\Debug\net8.0\11_GodClass.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\bin\Debug\net8.0\11_GodClass.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\bin\Debug\net8.0\11_GodClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\bin\Debug\net8.0\11_GodClass.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\refint\11_GodClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\11_GodClass.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\11_GodClass\11_GodClass\obj\Debug\net8.0\ref\11_GodClass.dll

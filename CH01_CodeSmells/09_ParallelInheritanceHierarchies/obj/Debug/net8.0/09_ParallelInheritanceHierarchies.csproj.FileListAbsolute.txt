@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\bin\Debug\net8.0\09_ParallelInheritanceHierarchies.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\bin\Debug\net8.0\09_ParallelInheritanceHierarchies.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\bin\Debug\net8.0\09_ParallelInheritanceHierarchies.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\bin\Debug\net8.0\09_ParallelInheritanceHierarchies.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\bin\Debug\net8.0\09_ParallelInheritanceHierarchies.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\refint\09_ParallelInheritanceHierarchies.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\09_ParallelInheritanceHierarchies.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\09_ParallelInheritanceHierarchies\09_ParallelInheritanceHierarchies\obj\Debug\net8.0\ref\09_ParallelInheritanceHierarchies.dll

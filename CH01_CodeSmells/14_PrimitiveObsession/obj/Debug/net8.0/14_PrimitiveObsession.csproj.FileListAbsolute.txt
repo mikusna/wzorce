@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\bin\Debug\net8.0\14_PrimitiveObsession.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\bin\Debug\net8.0\14_PrimitiveObsession.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\bin\Debug\net8.0\14_PrimitiveObsession.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\bin\Debug\net8.0\14_PrimitiveObsession.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\bin\Debug\net8.0\14_PrimitiveObsession.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\refint\14_PrimitiveObsession.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\14_PrimitiveObsession.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\14_PrimitiveObsession\14_PrimitiveObsession\obj\Debug\net8.0\ref\14_PrimitiveObsession.dll

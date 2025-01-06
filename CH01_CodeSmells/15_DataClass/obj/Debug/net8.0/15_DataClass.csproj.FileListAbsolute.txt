@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\bin\Debug\net8.0\15_DataClass.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\bin\Debug\net8.0\15_DataClass.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\bin\Debug\net8.0\15_DataClass.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\bin\Debug\net8.0\15_DataClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\bin\Debug\net8.0\15_DataClass.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\refint\15_DataClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\15_DataClass.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\15_DataClass\15_DataClass\obj\Debug\net8.0\ref\15_DataClass.dll

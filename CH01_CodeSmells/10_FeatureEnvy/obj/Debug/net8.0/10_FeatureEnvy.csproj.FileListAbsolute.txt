@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\bin\Debug\net8.0\10_FeatureEnvy.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\bin\Debug\net8.0\10_FeatureEnvy.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\bin\Debug\net8.0\10_FeatureEnvy.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\bin\Debug\net8.0\10_FeatureEnvy.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\bin\Debug\net8.0\10_FeatureEnvy.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\refint\10_FeatureEnvy.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\10_FeatureEnvy.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\10_FeatureEnvy\10_FeatureEnvy\obj\Debug\net8.0\ref\10_FeatureEnvy.dll

@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\bin\Debug\net8.0\13_LargeClass.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\bin\Debug\net8.0\13_LargeClass.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\bin\Debug\net8.0\13_LargeClass.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\bin\Debug\net8.0\13_LargeClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\bin\Debug\net8.0\13_LargeClass.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\refint\13_LargeClass.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\13_LargeClass.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\13_LargeClass\13_LargeClass\obj\Debug\net8.0\ref\13_LargeClass.dll
