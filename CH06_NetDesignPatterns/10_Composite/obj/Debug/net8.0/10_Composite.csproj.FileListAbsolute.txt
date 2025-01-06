@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\bin\Debug\net8.0\10_Composite.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\bin\Debug\net8.0\10_Composite.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\bin\Debug\net8.0\10_Composite.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\bin\Debug\net8.0\10_Composite.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\bin\Debug\net8.0\10_Composite.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\refint\10_Composite.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\10_Composite.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\10_Composite\10_Composite\obj\Debug\net8.0\ref\10_Composite.dll
