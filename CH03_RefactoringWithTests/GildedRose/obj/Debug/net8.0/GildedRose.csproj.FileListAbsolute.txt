@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\bin\Debug\net8.0\GildedRose.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\bin\Debug\net8.0\GildedRose.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\bin\Debug\net8.0\GildedRose.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\bin\Debug\net8.0\GildedRose.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\bin\Debug\net8.0\GildedRose.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\refint\GildedRose.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\GildedRose.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH03_RefactoringWithTests\GildedRose\obj\Debug\net8.0\ref\GildedRose.dll
