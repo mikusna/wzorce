@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\bin\Debug\net8.0\11_Flyweight.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\bin\Debug\net8.0\11_Flyweight.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\bin\Debug\net8.0\11_Flyweight.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\bin\Debug\net8.0\11_Flyweight.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\bin\Debug\net8.0\11_Flyweight.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\refint\11_Flyweight.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\11_Flyweight.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\11_Flyweight\11_Flyweight\obj\Debug\net8.0\ref\11_Flyweight.dll
