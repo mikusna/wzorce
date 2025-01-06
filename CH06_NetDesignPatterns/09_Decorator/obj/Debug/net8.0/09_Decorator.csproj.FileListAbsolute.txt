@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\bin\Debug\net8.0\09_Decorator.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\bin\Debug\net8.0\09_Decorator.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\bin\Debug\net8.0\09_Decorator.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\bin\Debug\net8.0\09_Decorator.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\bin\Debug\net8.0\09_Decorator.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\refint\09_Decorator.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\09_Decorator.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH06_NetDesignPatterns\09_Decorator\09_Decorator\obj\Debug\net8.0\ref\09_Decorator.dll
