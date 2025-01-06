@@ -1,0 +1,15 @@
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\bin\Debug\net8.0\08_DivergentChange.exe
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\bin\Debug\net8.0\08_DivergentChange.deps.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\bin\Debug\net8.0\08_DivergentChange.runtimeconfig.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\bin\Debug\net8.0\08_DivergentChange.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\bin\Debug\net8.0\08_DivergentChange.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.sourcelink.json
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\refint\08_DivergentChange.dll
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.pdb
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\08_DivergentChange.genruntimeconfig.cache
+C:\Users\milen\OneDrive\Pulpit\studia\C#\C#\CH01_CodeSmells\08_DivergentChange\08_DivergentChange\obj\Debug\net8.0\ref\08_DivergentChange.dll
